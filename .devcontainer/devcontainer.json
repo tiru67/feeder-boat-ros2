@@ -1,0 +1,14 @@
+{
+  "name": "ROS2 Humble on Ubuntu 22.04",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash"
+  },
+  "extensions": [
+    "ms-python.python",
+    "ms-vscode.cpptools"
+  ],
+  "remoteUser": "vscode"
+}
